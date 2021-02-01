@@ -23,23 +23,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e4d049f-4ea0-4363-b903-5245a0ac1618" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/neuralStyle10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collab Version/neuralstyle-backend-collab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desktop Version/.idea/pythonProject1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desktop Version/style_transfer_local.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gcloudignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Google_App_Engine_SDK.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonProject1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dancing.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picasso.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop Version/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desktop Version/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop Version/result.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop Version/style_transfer_hub.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desktop Version/style_transfer_hub.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop Version/style_transfer_local.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desktop Version/style_transfer_local.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,9 +63,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Desktop Version/app.py" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
@@ -103,20 +94,47 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="server_run" type="PythonConfigurationType" factoryName="Python">
       <module name="neuralStyle10" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\Scott Ellenoff\anaconda3\envs\neuralStyle10\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Desktop Version" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desktop Version/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="style_transfer_local" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="neuralStyle10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\Scott Ellenoff\anaconda3\envs\neuralStyle10\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Desktop Version" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desktop Version/style_transfer_local.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,8 +152,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612197328534</updated>
-      <workItem from="1612197330024" duration="765000" />
+      <workItem from="1612197330024" duration="7400000" />
+      <workItem from="1612206155002" duration="942000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit pt2">
+      <created>1612198122811</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612198122811</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,19 +178,60 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit pt2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit pt2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="4665" y="676" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612197887252">
+    <state x="4665" y="676" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612198496978">
       <screen x="3840" y="365" width="2560" height="1440" />
     </state>
-    <state x="4665" y="676" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1440/3840.365.2560.1440@3840.365.2560.1440" timestamp="1612197887252" />
-    <state x="4991" y="776" key="FileChooserDialogImpl" timestamp="1612197860495">
+    <state x="4665" y="676" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1440/3840.365.2560.1440@3840.365.2560.1440" timestamp="1612198496978" />
+    <state x="4210" y="831" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1612202710295">
       <screen x="3840" y="365" width="2560" height="1440" />
     </state>
-    <state x="4991" y="776" key="FileChooserDialogImpl/0.0.2560.1440/3840.365.2560.1440@3840.365.2560.1440" timestamp="1612197860495" />
-    <state x="4536" y="995" key="SettingsEditor" timestamp="1612198022844">
+    <state x="4210" y="831" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1440/3840.365.2560.1440@3840.365.2560.1440" timestamp="1612202710295" />
+    <state x="4991" y="776" key="FileChooserDialogImpl" timestamp="1612203916313">
       <screen x="3840" y="365" width="2560" height="1440" />
     </state>
-    <state x="4536" y="995" key="SettingsEditor/0.0.2560.1440/3840.365.2560.1440@3840.365.2560.1440" timestamp="1612198022844" />
+    <state x="4991" y="776" key="FileChooserDialogImpl/0.0.2560.1440/3840.365.2560.1440@3840.365.2560.1440" timestamp="1612203916313" />
+    <state width="1236" height="510" key="GridCell.Tab.0.bottom" timestamp="1612205848787">
+      <screen x="3840" y="365" width="2560" height="1440" />
+    </state>
+    <state width="1236" height="510" key="GridCell.Tab.0.bottom/0.0.2560.1440/3840.365.2560.1440@3840.365.2560.1440" timestamp="1612205848787" />
+    <state width="1236" height="510" key="GridCell.Tab.0.center" timestamp="1612205848786">
+      <screen x="3840" y="365" width="2560" height="1440" />
+    </state>
+    <state width="1236" height="510" key="GridCell.Tab.0.center/0.0.2560.1440/3840.365.2560.1440@3840.365.2560.1440" timestamp="1612205848786" />
+    <state width="1236" height="510" key="GridCell.Tab.0.left" timestamp="1612205848786">
+      <screen x="3840" y="365" width="2560" height="1440" />
+    </state>
+    <state width="1236" height="510" key="GridCell.Tab.0.left/0.0.2560.1440/3840.365.2560.1440@3840.365.2560.1440" timestamp="1612205848786" />
+    <state width="1236" height="510" key="GridCell.Tab.0.right" timestamp="1612205848787">
+      <screen x="3840" y="365" width="2560" height="1440" />
+    </state>
+    <state width="1236" height="510" key="GridCell.Tab.0.right/0.0.2560.1440/3840.365.2560.1440@3840.365.2560.1440" timestamp="1612205848787" />
+    <state width="1236" height="510" key="GridCell.Tab.1.bottom" timestamp="1612205848787">
+      <screen x="3840" y="365" width="2560" height="1440" />
+    </state>
+    <state width="1236" height="510" key="GridCell.Tab.1.bottom/0.0.2560.1440/3840.365.2560.1440@3840.365.2560.1440" timestamp="1612205848787" />
+    <state width="1236" height="510" key="GridCell.Tab.1.center" timestamp="1612205848787">
+      <screen x="3840" y="365" width="2560" height="1440" />
+    </state>
+    <state width="1236" height="510" key="GridCell.Tab.1.center/0.0.2560.1440/3840.365.2560.1440@3840.365.2560.1440" timestamp="1612205848787" />
+    <state width="1236" height="510" key="GridCell.Tab.1.left" timestamp="1612205848787">
+      <screen x="3840" y="365" width="2560" height="1440" />
+    </state>
+    <state width="1236" height="510" key="GridCell.Tab.1.left/0.0.2560.1440/3840.365.2560.1440@3840.365.2560.1440" timestamp="1612205848787" />
+    <state width="1236" height="510" key="GridCell.Tab.1.right" timestamp="1612205848787">
+      <screen x="3840" y="365" width="2560" height="1440" />
+    </state>
+    <state width="1236" height="510" key="GridCell.Tab.1.right/0.0.2560.1440/3840.365.2560.1440@3840.365.2560.1440" timestamp="1612205848787" />
+    <state x="4536" y="995" key="SettingsEditor" timestamp="1612204726482">
+      <screen x="3840" y="365" width="2560" height="1440" />
+    </state>
+    <state x="4536" y="995" key="SettingsEditor/0.0.2560.1440/3840.365.2560.1440@3840.365.2560.1440" timestamp="1612204726482" />
   </component>
 </project>

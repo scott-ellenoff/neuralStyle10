@@ -1,7 +1,6 @@
 import functools
 import os
-
-from matplotlib import gridspec
+import matplotlib
 import matplotlib.pylab as plt
 import numpy as np
 import tensorflow as tf
@@ -29,7 +28,7 @@ def show_n(images, titles=('',)):
   image_sizes = [image.shape[1] for image in images]
   w = (image_sizes[0] * 6) // 320
   plt.figure(figsize=(w  * n, w))
-  gs = gridspec.GridSpec(1, n, width_ratios=image_sizes)
+  gs = matplotlib.gridspec.GridSpec(1, n, width_ratios=image_sizes)
   for i in range(n):
     plt.subplot(gs[i])
     plt.imshow(images[i][0], aspect='equal')
