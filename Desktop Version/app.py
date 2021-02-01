@@ -1,5 +1,5 @@
 from flask import Flask, request, send_file
-import main
+import style_transfer_hub
 
 app = Flask(__name__)
 
